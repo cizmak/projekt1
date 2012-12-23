@@ -2,7 +2,4 @@ Witam,
 
 Kod potrzebny do instalacji:
 
-
-ppp
-
-qqq
+xxx
